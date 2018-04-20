@@ -1,0 +1,39 @@
+{
+  "logo": {
+    "text": "Knowledge Base",
+    "type": "link",
+    "path": "index.html"
+  },
+  "main": [
+    {
+      "text": "Fundementials",
+      "type": "label"
+    },
+    {
+      "text": "Javascript",
+      "type": "link",
+      "path": "js/intro.html"
+    },
+    {
+      "text": "PHP",
+      "type": "link",
+      "path": "php/intro.html"
+    },
+    {
+      "text": "Angular",
+      "type": "link",
+      "path": "js/angular/index.html"
+    }
+    # },
+    # {
+    #   "text": "UI",
+    #   "type": "link",
+    #   "path": "swagger/ui.html"
+    # },
+    # {
+    #   "text": "To HTML",
+    #   "type": "link",
+    #   "path": "swagger/to-html.html"
+    # }
+  ]
+}
